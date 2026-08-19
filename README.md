@@ -265,15 +265,6 @@ You can turn any mobile smartphone on the same Wi-Fi network into a live search 
 
 ---
 
-## 🏆 Hackathon Presentation Flow
-
-1. **Public Emergency Intake**: Submit an emergency report (e.g., *"Flash flood trapped survivors on rooftop"*). Demonstrate instant Gemini risk scoring and priority classification.
-2. **Missing Person Registration**: Register a missing person with a reference photo and last known coordinates.
-3. **Drone Video Upload & YOLO Processing**: Upload surveillance footage under **Drone Intelligence**. Show real-time extraction of person detection crops.
-4. **PyTorch ResNet-18 Vector Search & Human Review**: Run visual search on the missing person case. View top matches with cosine similarity scores, open side-by-side comparison, and confirm the match.
-5. **Operations Map & Audit Trail**: View real-time Leaflet GIS markers and open the case drawer to inspect the chronological `CaseEvent` audit trail.
-
----
 
 ## 📄 License
 
