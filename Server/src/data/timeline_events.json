@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "timeline_events_1787128986299_3364e7de",
+    "caseId": "MP-2026-0002",
+    "caseType": "MISSING_PERSON",
+    "eventType": "CASE_STATUS_CHANGED",
+    "description": "Case status changed to FOUND.",
+    "createdBy": "SYSTEM",
+    "metadata": {
+      "missingPersonId": "missing_persons_1787041308439_e71b449b",
+      "status": "FOUND"
+    },
+    "timestamp": "2026-08-19T08:43:06.299Z",
+    "createdAt": "2026-08-19T08:43:06.299Z",
+    "updatedAt": "2026-08-19T08:43:06.299Z"
+  },
+  {
+    "_id": "timeline_events_1787041758324_48cf0b4c",
+    "caseId": "MP-2026-0002",
+    "caseType": "MISSING_PERSON",
+    "eventType": "LIVE_SEARCH_STOPPED",
+    "description": "Simulated drone live camera search session stopped for Saurav Anand.",
+    "createdBy": "SYSTEM",
+    "metadata": {
+      "missingPersonId": "missing_persons_1787041308439_e71b449b"
+    },
+    "timestamp": "2026-08-18T08:29:18.323Z",
+    "createdAt": "2026-08-18T08:29:18.324Z",
+    "updatedAt": "2026-08-18T08:29:18.324Z"
+  },
+  {
+    "_id": "timeline_events_1787041729167_fda41910",
+    "caseId": "MP-2026-0002",
+    "caseType": "MISSING_PERSON",
+    "eventType": "LIVE_SEARCH_STARTED",
+    "description": "Simulated drone live camera search session initiated for Saurav Anand.",
+    "createdBy": "SYSTEM",
+    "metadata": {
+      "missingPersonId": "missing_persons_1787041308439_e71b449b"
+    },
+    "timestamp": "2026-08-18T08:28:49.166Z",
+    "createdAt": "2026-08-18T08:28:49.167Z",
+    "updatedAt": "2026-08-18T08:28:49.167Z"
+  },
+  {
+    "_id": "timeline_events_1787041308443_d0c0551a",
+    "caseId": "MP-2026-0002",
+    "caseType": "MISSING_PERSON",
+    "eventType": "CASE_CREATED",
+    "description": "Missing person report created for Saurav Anand (Age 20).",
+    "createdBy": "SYSTEM",
+    "metadata": {
+      "missingPersonId": "missing_persons_1787041308439_e71b449b",
+      "lastSeenLocation": {
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "address": ""
+      }
+    },
+    "timestamp": "2026-08-18T08:21:48.442Z",
+    "createdAt": "2026-08-18T08:21:48.443Z",
+    "updatedAt": "2026-08-18T08:21:48.443Z"
+  },
+  {
+    "_id": "timeline_events_1787039958214_9f889a7f",
+    "caseId": "MP-2026-0001",
+    "caseType": "MISSING_PERSON",
+    "eventType": "CASE_CREATED",
+    "description": "Missing person report created for Japesh singh (Age 20).",
+    "createdBy": "SYSTEM",
+    "metadata": {
+      "missingPersonId": "missing_persons_1787039958213_67ef5f0b",
+      "lastSeenLocation": {
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "address": ""
+      }
+    },
+    "timestamp": "2026-08-18T07:59:18.214Z",
+    "createdAt": "2026-08-18T07:59:18.214Z",
+    "updatedAt": "2026-08-18T07:59:18.214Z"
+  }
+]
